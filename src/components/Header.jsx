@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       <h1 class="text-center col-lg-8 mx-auto"><FormatPaintIcon /> Duffett Brother's Painting <ImagesearchRollerIcon /></h1>
-      <a style={{color: "black", paddingRight: "5%"}} href="./gallery.html">Gallery</a>
+      <a style={{color: "black", paddingRight: "5%"}} href="./gallery.html">Our Gallery</a>
       <a style={{color: "black"}} href="./reviews.html">Testimonials</a>
       <a style={{color: "black", paddingLeft: "63%"}} href="./services.html">Services</a>
       <a style={{color: "black", paddingLeft: "5%"}} href="./aboutus.html">About us</a>
