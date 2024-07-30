@@ -5,12 +5,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "dev": "vite",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "serve": "react-dotenv && serve build"
+    "build": "vite build",
+    "serve": "react-dotenv && serve build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
