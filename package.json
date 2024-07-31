@@ -1,7 +1,7 @@
 {
-  "homepage": " https://bsduff3tt.github.io/Duffettpainting3/index.html",
+  "homepage": "https://bsduff3tt.github.io/Duffettpainting3/",
   "name": "using-pre-built-react-components",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
